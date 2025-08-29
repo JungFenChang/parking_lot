@@ -6,4 +6,4 @@ dependencies:
   - pip:
     - easyocr==1.7.2
     - gradio==5.44
-    - numpy==2.2
+    - numpy==2.2.6
